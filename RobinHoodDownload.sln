@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobinHoodDownload", "RobinHoodDownload\RobinHoodDownload.csproj", "{EEF4F025-0018-445F-802C-C4E6C75EAFFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF4F025-0018-445F-802C-C4E6C75EAFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF4F025-0018-445F-802C-C4E6C75EAFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF4F025-0018-445F-802C-C4E6C75EAFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF4F025-0018-445F-802C-C4E6C75EAFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A3128C-6DDF-42A4-B917-C57F7E4ECB6E}
+	EndGlobalSection
+EndGlobal

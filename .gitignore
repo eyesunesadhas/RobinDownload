@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/RobinHoodDownload/v16/.suo
+/RobinHoodDownload/bin
+/RobinHoodDownload/obj
+/RobinHoodDownload/RobinHoodDownload.csproj.user
